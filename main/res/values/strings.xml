@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Plant</string>
+
+    <string name="perfect">Perfekt</string>
+    <string name="too_dry">Zu trocken</string>
+    <string name="too_wet">Zu nass</string>
+
+    <string name="channel_name">Notifications for Plant</string>
+    <string name="channel_description">Sending Notifications if plant is too dry</string>
+</resources>
